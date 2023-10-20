@@ -24,7 +24,7 @@
     "@types/diff-match-patch": "^1.0.32",
     "@types/jest": "^26.0.23",
     "@types/puppeteer": "^2.1.5",
-    "autoprefixer": "^9.8.6",
+    "autoprefixer": "^10.4.16",
     "babel-loader": "^8.2.2",
     "clean-webpack-plugin": "^4.0.0-alpha.0",
     "copy-webpack-plugin": "^6.4.1",
